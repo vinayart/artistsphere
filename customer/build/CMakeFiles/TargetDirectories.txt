@@ -1,0 +1,5 @@
+C:/webtech/customer/build/CMakeFiles/customer.dir
+C:/webtech/customer/build/CMakeFiles/edit_cache.dir
+C:/webtech/customer/build/CMakeFiles/rebuild_cache.dir
+C:/webtech/customer/build/CMakeFiles/customer_autogen_timestamp_deps.dir
+C:/webtech/customer/build/CMakeFiles/customer_autogen.dir

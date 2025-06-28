@@ -1,0 +1,5 @@
+C:/webtech/artist/build/CMakeFiles/artist.dir
+C:/webtech/artist/build/CMakeFiles/edit_cache.dir
+C:/webtech/artist/build/CMakeFiles/rebuild_cache.dir
+C:/webtech/artist/build/CMakeFiles/artist_autogen_timestamp_deps.dir
+C:/webtech/artist/build/CMakeFiles/artist_autogen.dir

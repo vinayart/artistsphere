@@ -1,0 +1,5 @@
+C:/webtech/profile/build/CMakeFiles/ProfileApp.dir
+C:/webtech/profile/build/CMakeFiles/edit_cache.dir
+C:/webtech/profile/build/CMakeFiles/rebuild_cache.dir
+C:/webtech/profile/build/CMakeFiles/ProfileApp_autogen_timestamp_deps.dir
+C:/webtech/profile/build/CMakeFiles/ProfileApp_autogen.dir

@@ -1,0 +1,5 @@
+C:/webtech/login_register/build/CMakeFiles/LoginApp.dir
+C:/webtech/login_register/build/CMakeFiles/edit_cache.dir
+C:/webtech/login_register/build/CMakeFiles/rebuild_cache.dir
+C:/webtech/login_register/build/CMakeFiles/LoginApp_autogen_timestamp_deps.dir
+C:/webtech/login_register/build/CMakeFiles/LoginApp_autogen.dir

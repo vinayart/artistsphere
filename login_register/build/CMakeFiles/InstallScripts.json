@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/webtech/login_register/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
