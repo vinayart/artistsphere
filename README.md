@@ -4,19 +4,6 @@ This is a multi-component C++ desktop application suite built with **Qt** and **
 
 ---
 
-## 📄 Project Completion Status
-
-| Module             | Status    | Notes                                      |
-| ------------------ | --------- | ------------------------------------------ |
-| **Login/Register** | ✅ Present | `LoginApp.exe` handles registration/login. |
-| **Profile Viewer** | ✅ Present | `ProfileApp.exe` manages profiles.         |
-| **Artist App**     | ✅ Present | `artist.exe` for artist-side tools.        |
-| **Artist Viewer**  | ✅ Present | Viewer module for customer-side access.    |
-| **Customer App**   | ✅ Present | Allows customer interaction and browsing.  |
-| **Reel Feed**      | ✅ Present | `reel_feed.exe` for viewing video content. |
-
----
-
 ## 📦 Modules Overview
 
 | Module             | Executable       | Description                             |
